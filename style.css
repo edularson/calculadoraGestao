@@ -50,3 +50,11 @@ body {
     cursor: pointer;
     transition: background-color 0.2s, transform 0.1s;
 }
+
+.key:hover {
+    background-color: #6d6d6d;
+}
+
+.key:active {
+    transform: scale(0.95);
+}
