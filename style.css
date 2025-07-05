@@ -85,3 +85,13 @@ body {
 .equal-sign:hover {
     background-color: #ffa72b;
 }
+
+.equal-sign {
+    grid-row: 3 / span 3;
+    grid-column: 4 / 5;
+    height: 100%;
+}
+
+.zero {
+    grid-column: span 2;
+}
