@@ -33,3 +33,20 @@ body {
     text-align: right;
     margin-bottom: 20px;
 }
+
+.calculator-keys {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 60px);
+    gap: 15px;
+}
+
+.key {
+    font-size: 1.5em;
+    border: none;
+    border-radius: 15px;
+    background-color: #505050;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.1s;
+}
