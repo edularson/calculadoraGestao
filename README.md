@@ -2,7 +2,11 @@
 
 ## Visão Geral
 
-Este é um projeto colaborativo criado por [Nome do Membro 1], [Nome do Membro 2] e [Nome do Membro 3]. O objetivo deste projeto é construir uma calculadora web simples.
+Este é um projeto colaborativo criado por Eduardo Larson, Thiago Ceron e João Samuel Luy. O objetivo deste projeto é construir uma calculadora web simples.
+
+- Eduardo: Responsável pela implementação do HTML
+- Thiago: Responsável pela implementação do CSS
+- João: Responsável pela implementação do Java Script
 
 ## Funcionalidades
 
